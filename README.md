@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello Toys0125 here, just call me Toys
+### Streamer/Gamer/Game Designer/Programmer
+![Twitch](https://img.shields.io/twitch/status/Toys0125?color=green&style=for-the-badge)
+<a href="https://discord.gg/bEYTWNNP73"><img src="/discord.svg?raw=true&sanitize=true" alt="drawing" width="50"/>![Discord](https://img.shields.io/badge/Toys0125-%235761-4E5D94?style=for-the-badge)</link>
+<br />
 
-<!--
-**Toys0125/Toys0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Info about me
+I'm a game programmer from Northeast Highschool and current college student of Austin Peay State University for bacholor of Computer Science and software development.
+<br />
+Skilled at reverse engineering my friends code and hacking my way at undeterminate objective. (*joke intended*)
+***
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary> Stats for GitHub</summary>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toys0125?theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toys0125?theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+</details>
