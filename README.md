@@ -1,7 +1,7 @@
-## Hello Toys0125 here, just call me Toys
-### Streamer/Gamer/Game Designer/Programmer
+## <span style="color:cyan;-webkit-text-stroke: 1px black;text-shadow:1px 1px 0 #000,-0px -0px 0 #000,0px -0px 0 #000,-0px 0px 0 #000,0px 0px 0 #000;"> Hello Toys0125 here, just call me Toys </span>
+### <span style="color:lightgreen;-webkit-text-stroke: 0.5px black;text-shadow:0.5px 0.5px 0 #000,-0px -0px 0 #000,0px -0px 0 #000,-0px 0px 0 #000,0px 0px 0 #000;">Streamer/Gamer/Game Designer/Programmer </span>
 ![Twitch](https://img.shields.io/twitch/status/Toys0125?color=green&style=for-the-badge)
-<a href="https://discord.gg/bEYTWNNP73"><img src="/discord.svg?raw=true&sanitize=true" alt="drawing" width="50"/>![Discord](https://img.shields.io/badge/Toys0125-%235761-4E5D94?style=for-the-badge)</link>
+<a href="https://discord.gg/bEYTWNNP73"><img src="/discord.svg?raw=true&sanitize=true" alt="drawing" width="50"/>![Discord](https://img.shields.io/badge/Toys0125-%235761-4E5D94?style=for-the-badge)</a>
 <br />
 
 # Info about me
