@@ -5,10 +5,20 @@
 <br />
 
 # Info about me
-I'm a game programmer from Northeast Highschool and current college student of Austin Peay State University for bacholor of Computer Science and software development.
+I'm a game programmer from Northeast Highschool and current college student of Austin Peay State University for Bachelor degree for Computer Science and Software Development.
 <br />
 Skilled at reverse engineering my friends code and hacking my way at indeterminate objective. (*joke intended*)
 ***
+## Known Lanauges
+- C++
+- Python
+- Nodejs
+- C# (Unity)
+## Less Known
+- C# (General)
+- JavaScript
+- PHP
+- Still learning
 
 <details>
   <summary> Stats for GitHub</summary>
