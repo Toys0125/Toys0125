@@ -12,6 +12,8 @@ Skilled at reverse engineering my friends code and hacking my way at undetermina
 
 <details>
   <summary> Stats for GitHub</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toys0125?theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toys0125?theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toys0125&theme=synthwave)
+  <br />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toys0125&theme=synthwave)
 </details>
